@@ -1,0 +1,19 @@
+下方插入一行：ctrl+enter
+文件夹查找：ctrl+shift+F
+格式化代码：Alt+shift+F
+git配置：git config --global user.name 'xuyingying941024'
+        git config --global user.email '1103510569@qq.com'
+克隆：  git clone 'https://github.com/xuyingying941024/projects.git'
+用vscode打开克隆好的文件夹
+在文件夹里新建文件
+命令行进入D盘vscode
+添加：命令行输入 git add（没有东西的话可以自行添加【git add index.js】）
+提交： git commit -m 'add index.js'
+推送：push 将文件推送到远程仓库 git push
+修改完文件之后pull：git pull
+找回误删的文件：git checkout (被删除文件名)
+vscode使用git
+1、add
+2、commit
+3、pull
+4、checkout
