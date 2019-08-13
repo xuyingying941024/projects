@@ -17,3 +17,13 @@ vscode使用git
 2、commit
 3、pull
 4、checkout 
+常用插件（一）
+css peek：html与css关联
+Prettier：代码格式化
+icon fonts：图标集，如font awesome、glyphicons
+auto rename tag：自动修改标签(改变标签时结束标签自动更改)
+常用插件（二）
+html boilerplate：html模版
+color info：颜色提示
+auto close tag：自动闭合标签
+html css support：html中css class的智能提示
