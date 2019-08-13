@@ -16,4 +16,4 @@ vscode使用git
 1、add
 2、commit
 3、pull
-4、checkout
+4、checkout 
