@@ -1,1 +1,2 @@
-console.lo("aaa");
+控制台。lo（“aaa”）;
+console.log("bbb");
