@@ -26,4 +26,4 @@ auto rename tag：自动修改标签(改变标签时结束标签自动更改)
 html boilerplate：html模版
 color info：颜色提示
 auto close tag：自动闭合标签
-html css support：html中css class的智能提示
+html css support：html中css class的智能提示 
