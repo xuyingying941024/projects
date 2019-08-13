@@ -1,2 +1,2 @@
-控制台。lo（“aaa”）;
+console.log（"aaa"）;
 console.log("bbb");
