@@ -1,4 +1,4 @@
-一、VsCode快捷键
+一、VsCode
         （1、）VsCode快捷键
                 下方插入一行：ctrl+enter
                 文件夹查找：ctrl+shift+F
@@ -32,9 +32,6 @@
         （2、）commit
         （3、）pull
         （4、）checkout 
-
-
-
 四、项目中遇到的问题
         （1.）vscode终端命令不执行
                 解决方法：右击文件属性->兼容性->选择以管理员身份运行此文件
