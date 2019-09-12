@@ -30,7 +30,7 @@
         每次推送都要输入用户名和密码
                 解决方法：在终端仓库位置输入指令git config --global credential.helper store，重启vscode，输入一遍用户名和密码之后再推送就不用输入了。
 三、VsCode使用git 
-        （1、）add
+        （1、）add 
         （2、）commit
         （3、）pull
         （4、）checkout 
