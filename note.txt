@@ -27,3 +27,13 @@ html boilerplate：html模版
 color info：颜色提示
 auto close tag：自动闭合标签
 html css support：html中css class的智能提示 
+
+
+项目中遇到的问题
+（1.）vscode终端命令不执行
+        解决方法：右击文件属性 - >兼容性 - >选择以管理员身份运行此文件
+（2.）安装完vscode .vue文件的代码全是灰色，而且没有代码提示
+        解决方法：选择文件 - >首选项 - >设置 - >修改配置文件
+（3）V-对于报错
+        解决方法：添加：key =""
+ (4.)
