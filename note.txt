@@ -41,3 +41,7 @@
                 解决方法：选择文件->首选项->设置->修改配置文件
         （3.）v-for报错
                 解决方法：添加 :key=""
+        （4.）安装npm install时，长时间停留在fetchMetadata: sill mapToRegistry uri http://registry.npmjs.org/whatwg-fetch处
+                解决方法：是资源问题导致的，后面的URL地址可以由淘宝的源代替；
+                         更换成淘宝的源 npm config set registry https://registry.npm.taobao.org 
+                         配置后可通过下面方式来验证是否成功 npm config get registry或npm info express
